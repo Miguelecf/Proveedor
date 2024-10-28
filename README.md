@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Proveedor
 
-Descripción breve del proyecto.
+Proveedor en kafka que toma las peticiones desde el proyecto Stockearte
 
 ## Instalación
 
